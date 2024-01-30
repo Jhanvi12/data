@@ -1,0 +1,14 @@
+Hello Nikita,
+
+I am Jhanvi, currently leading IaC pillar in Secure SDLC Team at Goldman Sachs.Wanted to share performance review for Adithya kumar who is contingent to us.
+
+Technical competence - He has showcased strong technical proficiency in Python development.His ability to understand the requirement,develop scripts has significantly contributed to the team.In addition to this, he help us with data analysis, which makes the data understandable and readable.
+
+Collaboration and Initiatives - He also takes initiatives to review terraform code and helps in rule development as well.
+
+Area of Growth - While Adithya has excelled in many areas, there might be an opportunity to further enhance on time management and scheduling. I encourage him to explore on interpersonal skills to broaden their expertise.
+
+Let me know if you wanted to discuss more.
+
+Regards
+Jhanvi Uday
