@@ -1,0 +1,18 @@
+Here are five easy questions on SDLC security and AWS security that would be appropriate for college students:
+
+### SDLC Security
+1. What does SDLC stand for, and why is security important in each phase of the SDLC?
+   - Answer: SDLC stands for Software Development Life Cycle. Security is important in each phase to ensure that vulnerabilities are identified and mitigated early, reducing the risk of security breaches.
+
+2. What is the purpose of conducting a security review during the design phase of the SDLC?
+   - Answer: The purpose is to identify potential security risks in the architecture and design of the software before implementation begins.
+
+3. Can you name a common security practice that should be applied during the coding phase of SDLC?
+   - Answer: One common practice is to use secure coding guidelines to avoid introducing vulnerabilities like SQL injection or cross-site scripting (XSS).
+
+### AWS Security
+4. What is the principle of least privilege in AWS, and why is it important?
+   -Answer: The principle of least privilege involves giving users the minimum levels of access—or permissions—necessary to perform their job functions. It’s important to minimize the potential damage from accidental or malicious misuse of AWS resources.
+
+5. What is an AWS Security Group, and how does it contribute to securing an application?
+   - Answer: An AWS Security Group acts as a virtual firewall for your EC2 instances to control inbound and outbound traffic. It contributes to securing an application by allowing you to specify which traffic is allowed or denied to and from your resources.
