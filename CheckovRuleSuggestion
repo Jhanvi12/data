@@ -1,0 +1,31 @@
+1. Ensure CloudTrail is enabled in all regions
+Policy ID: CKV_AWS_38
+Description: Requires CloudTrail to be enabled to ensure logging of API events across all regions.
+
+2.Ensure CloudTrail log file validation is enabled
+Policy ID: CKV_AWS_21
+Description: Validates log integrity to detect unauthorized log modifications.
+
+3. Ensure ALBs and ELBs have logging enabled
+Policy ID: CKV_AWS_52
+Description: Ensures that load balancer access logs are enabled for better monitoring.
+
+4. Ensure Lambda function environment variables are encrypted
+Policy ID: CKV_AWS_51
+Description: Protects sensitive environment variables in Lambda functions using encryption.
+
+5. Ensure Security Groups do not have overly permissive rules
+Policy ID: CKV_AWS_23
+Description: Checks for overly broad rules in security groups, such as 0.0.0.0/0.
+
+6. Ensure DynamoDB tables are encrypted
+Policy ID: CKV_AWS_56
+Description: Enforces encryption for DynamoDB tables to secure sensitive data.
+
+7. Ensure EKS clusters have logging enabled
+Policy ID: CKV_AWS_77
+Description: Ensures that EKS clusters have appropriate logging enabled for monitoring and troubleshooting.
+
+8. Ensure Redshift clusters are not publicly accessible
+Policy ID: CKV_AWS_76
+Description: Restricts public access to Redshift clusters to prevent unauthorized access.
