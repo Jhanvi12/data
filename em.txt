@@ -1,0 +1,41 @@
+Subject: Prisma CSPM – Status Update for August & September
+
+Hi [Recipient's Name],
+
+Please find below the Prisma CSPM status update outlining the progress made over the past two months:
+
+August Highlights:
+
+Knowledge Transfer: Conducted detailed knowledge transfer sessions to ramp up the team on Prisma CSPM concepts, architecture, and onboarding steps.
+
+Point of Contacts: Identified and aligned key points of contact from the development, security, and cloud onboarding teams.
+
+Onboarding of Jhanvi's Skylab Account: Successfully onboarded Jhanvi’s Skylab AWS account to Prisma as the initial test environment for CSPM policies.
+
+September Highlights:
+
+CSPM Policy Development: Created a baseline set of custom CSPM policies tailored to our organization’s cloud security posture.
+
+Policy Deployment: Deployed the developed policies to Jhanvi’s account and verified enforcement through the Prisma console.
+
+Findings Review: Analyzed policy violations reported by Prisma and prioritized them based on severity and impact.
+
+CSPM Issue Resolution: Investigated and raised issues around false positives and fine-tuned rules based on feedback.
+
+Developer Experience – Keystone Onboarding: Onboarded the Keystone application to Prisma for validating policy coverage in a real-world scenario.
+
+Documentation: Created internal documentation outlining CSPM onboarding steps, policy structure, findings triage process, and escalation flow.
+
+Blocker:
+
+Skylab Account Creation for Teammates: Further onboarding is currently blocked as the cloud onboarding team has paused provisioning of new Skylab accounts, limiting the scope of testing across multiple users.
+
+Overall Summary:
+
+Over the last two months, significant progress has been made in setting up the Prisma CSPM foundation, including environment onboarding, policy development, and developer engagement. While technical capabilities have been validated on a single account, broader testing and adoption are currently hindered due to account provisioning restrictions, which need resolution to scale further.
+
+Please let me know if you’d like a deep dive on any specific area.
+
+Best regards,
+[Your Name]
+[Your Role / Team]
