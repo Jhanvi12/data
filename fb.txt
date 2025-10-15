@@ -1,0 +1,7 @@
+Technical Support Across Tools: I have been actively providing technical support for three key tools — CSPM, Checkov, and CLM — ensuring smooth operations and timely resolutions.
+
+Team Representation and Social Engagement: Based on the feedback from last year regarding increased visibility and social engagement, I made a conscious effort this year to represent our team in relevant forums. I contributed by discussing our tasks and initiatives, helping to increase our team's presence and collaboration across functions.
+
+Mentorship and Onboarding Support: I supported the onboarding of two new joiners in the Bangalore office, helping them ramp up quickly. Additionally, I assisted Sim and Gyan in getting up to speed with our practices related to Infrastructure as Code (IaC) and Cloud Security.
+
+Availability During Critical Periods: I ensured consistent support during key holiday periods, including Diwali week and the last two weeks of December, when many team members were on leave, to help maintain continuity and meet ongoing deliverables.
